@@ -13,10 +13,10 @@
         Me.resultado = resultado
     End Sub
 
-    Public Function setNumeros(numero1 As Double, numero2 As Double)
+    Public Sub setNumeros(numero1 As Double, numero2 As Double)
         Me.numero1 = numero1
         Me.numero2 = numero2
-    End Function
+    End Sub
 
     Public Function suma() As Double
         resultado = numero1 + numero2

@@ -1,5 +1,5 @@
 ﻿Module main
-    Public Sub Main()
+    Sub Main()
         Dim calc As New Calculadora
         Dim op As Integer = 0
 
