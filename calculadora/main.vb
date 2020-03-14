@@ -1,6 +1,7 @@
-﻿Module main
+﻿Module Module1
+
     Sub Main()
-        Dim calc As New Calculadora
+        Dim calc As New Class1
         Dim op As Integer = 0
 
         Do
@@ -36,7 +37,6 @@
             End Select
 
         Loop While (op <> 0)
-
     End Sub
 
 End Module

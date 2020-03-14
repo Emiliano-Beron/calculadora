@@ -1,5 +1,4 @@
-﻿Class Calculadora
-
+﻿Public Class Class1
     Private numero1 As Double
     Private numero2 As Double
     Private resultado As Double
